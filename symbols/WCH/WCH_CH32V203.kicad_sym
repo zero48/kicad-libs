@@ -6,7 +6,7 @@
     (property "Value" "CH32V203F8P6" (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "WCH_CH32V203:CH32V203F8P6_TSSOP-20_4.4x6.5mm_P0.65mm" (at 0 -20.32 0)
+    (property "Footprint" "WCH:CH32V203F8P6_TSSOP-20_4.4x6.5mm_P0.65mm" (at 0 -20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "CH32V203 Datasheet (WCH)" (at 0 -22.86 0)

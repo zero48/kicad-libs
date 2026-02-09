@@ -60,9 +60,12 @@
   (pad "19" smd roundrect (at 2.900 2.275) (size 1.50 0.30) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25))
   (pad "20" smd roundrect (at 2.900 2.925) (size 1.50 0.30) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25))
 
-  (model "{{KICAD9_3DMODEL_DIR}}/Package_SO.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.wrl"
+
+
+  (model "${KICAD_USER_LIBS}/3dmodels/WCH.3dshapes/TSSOP-20_4.4x6.5mm_P0.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+
 )
