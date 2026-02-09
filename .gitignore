@@ -1,0 +1,11 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# KiCad cache / backups
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_pro.user
+_fp-info-cache

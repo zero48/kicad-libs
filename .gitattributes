@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+*.kicad_sym text eol=lf
+*.kicad_mod text eol=lf
+*.wrl text eol=lf
+
+*.step binary
+*.stp  binary
+*.png  binary
+*.jpg  binary
+*.zip  binary
